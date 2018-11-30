@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Books.com-EJBEAR">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="Books.com-EJB.jar" deploy-path="/" handle="module:/resource/Books.com-EJB/Books.com-EJB">
+            <dependent-object>Module_1507744099037</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Books.com-EJBClient.jar" deploy-path="/" handle="module:/resource/Books.com-EJBClient/Books.com-EJBClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
